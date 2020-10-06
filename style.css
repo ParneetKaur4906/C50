@@ -1,0 +1,33 @@
+body
+{
+background-color: blueviolet;
+}
+.header{
+    display:flex;
+    background-color: crimson;
+    justify-content: space-between;
+}
+.camel{
+    display:flex;
+    justify-content: flex-end;
+}
+.chameleon{
+    display: flex;
+    justify-content: flex-end;
+}
+.cicada{
+    display: flex;
+    justify-content: flex-end;
+}
+.panda{
+    display: flex;
+    justify-content: flex-end;
+}
+.pigeon{
+    display: flex;
+    justify-content: flex-end;
+}
+.teddy{
+    display: flex;
+    justify-content: flex-end;
+}
